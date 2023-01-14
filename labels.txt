@@ -1,0 +1,2 @@
+getFoLabels
+insert into folabels(jrd0, br, sorce, func, trans??)
